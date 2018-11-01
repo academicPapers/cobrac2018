@@ -2,8 +2,16 @@
 
 Página do evento: [COBRAC 2018](http://cobrac2018.ufsc.br/)
 
-## Artigos submetidos pelo autor ao COBRAC 2018
+## Trabalhos submetidos pelo autor ao COBRAC 2018
 
-[Distribuição Lognormal](537-1947-1-DR.pdf)
+### Distribuição Lognormal
 
-[Pressupostos Clássicos](537-1948-1-DR.pdf)
+[Artigo](537-1947-1-DR.pdf)
+
+[Poster](poster_dist_lognormal.pdf)
+
+### Pressupostos Clássicos OLS
+
+[Artigo](545-1948-1-DR.pdf)
+
+[Poster](poster_pressupostos.pdf)
